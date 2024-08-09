@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LvBBp7VsfOWBg6IegftZeGonHeNyRCnR16OBwF2dVkn7HBDG9semQWUDfVrW9BpKZUpU09uazu75lWsd1o6G7w==",
+  "dgSpecHash": "y1vij7+NLc/QuRlsBSPnaH6iWt3M+1yH2YUBWhmfXl4jDDOvFmKkA5j1fDOPE586XtR/hgGjY5QLNmgF2AQItA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\VariablesExercise\\VariablesExercise\\VariablesExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/darronmanning/repos/Variables-Exercise/VariablesExercise/VariablesExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/darronmanning/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/darronmanning/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/darronmanning/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
